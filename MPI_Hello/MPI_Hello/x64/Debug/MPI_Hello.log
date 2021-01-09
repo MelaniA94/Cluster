@@ -1,0 +1,2 @@
+﻿  MPI_Hello.cpp
+c:\users\melani abayalath\source\repos\mpi_hello\mpi_hello\mpi_hello.cpp(1): fatal error C1083: Cannot open include file: 'mpi.h': No such file or directory
